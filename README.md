@@ -6,6 +6,8 @@ Lucas da Mata - lucasdamata01@hotmail.com
 Ricardo Silva - ricardo_skarline@hotmail.com
 Samuel Duarte - samucacalcopietro@gmail.com
 
+⚠️ Observação: o notebook contém widgets interativos. 
+Caso o GitHub exiba erro ao renderizar, abra diretamente no Google Colab:
 ---
 
 ## Introdução
