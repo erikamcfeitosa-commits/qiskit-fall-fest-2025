@@ -8,6 +8,7 @@ Samuel Duarte - samucacalcopietro@gmail.com
 
 ⚠️ Observação: o notebook contém widgets interativos. 
 Caso o GitHub exiba erro ao renderizar, abra diretamente no Google Colab:
+
 ---
 
 ## Introdução
