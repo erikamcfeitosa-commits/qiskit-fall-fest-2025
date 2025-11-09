@@ -54,7 +54,7 @@ A simulação no Qiskit mostra esse colapso de forma probabilística, de acordo 
 
 ### 4. Interatividade
 O notebook utiliza widgets interativos (botões) para o jogador escolher ações: aplicar portas (X, H) ou medir.  
-Cada escolha altera o circuito e a visualização, criando um aprendizado ativo e engajante e ajudado o jogador a construir intuição visual sobre o comportamento quântico — algo que normalmente é ensinado apenas com matemática complexa.
+Cada escolha altera o circuito e a visualização, criando um aprendizado ativo e engajante e ajudando o jogador a construir intuição visual sobre o comportamento quântico — algo que normalmente é ensinado apenas com matemática complexa.
 
 ---
 
